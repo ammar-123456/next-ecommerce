@@ -104,7 +104,7 @@
 
 
 
-
+'use client'; 
 
 import Link from "next/link";
 import Menu from "./Menu";

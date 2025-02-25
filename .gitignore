@@ -34,3 +34,25 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+
+# NEXT_PUBLIC_WIX_CLIENT_ID=din_wix_client_id
+# NEXT_PUBLIC_WIX_CLIENT_SECRET=din_wix_client_secret
+# NEXT_PUBLIC_API_URL=https://api.example.com
+
+# NEXT_PUBLIC_VARIABLE_NAME=value
+
+
+
+
+# WIX_CLIENT_ID=din-klient-id
+# WIX_CLIENT_SECRET=din-klient-secret
+# WIX_REDIRECT_URI=http://localhost:3000/auth/callback
+
+
+
+
+# WIX_CLIENT_ID=din_client_id
+# WIX_CLIENT_SECRET=din_client_secret
+# WIX_REDIRECT_URI=http://localhost:3000/api/auth/callback
